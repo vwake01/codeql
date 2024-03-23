@@ -6,7 +6,7 @@ permissions:
 on:
   pull_request_target:
     types: [labeled, unlabeled, opened, synchronize, reopened, ready_for_review]
-    paths:
+    paths:    cvdvdv
       - "*/ql/src/**/*.ql"
       - "*/ql/src/**/*.qll"
       - "*/ql/lib/**/*.ql"
